@@ -5,55 +5,81 @@
 </p>
 
 ## 👤 About Me
-I’m **Marius Grassman**, a third-year BSc (Hons) Software Engineering student at Belgium Campus ITversity, ranked in the top 5 of my year and currently working as a University Tutor.  
-Based in **Centurion, Gauteng, South Africa**, I love building intelligent full-stack and data-driven systems that solve real-world problems.
+I’m **Marius Grassman**, a third-year BSc (Hons) Software Engineering student at Belgium Campus ITversity. I rank in the top 5 of my year and currently serve as a University Tutor.
 
-- 🔭 **Current projects:** student-performance prediction ML app, credit-risk assessment model, and quantum-inspired agentic automation.  
-- 🌱 **Learning:** advanced distributed systems, ethical AI, and (yes!) Japanese.  
-- 👯 **Open to:** internships, research collaborations, and hackathon teams.  
-- 💬 **Ask me about:** .NET, MERN, machine learning, database design, or quantum computing.  
-- 📫 **Reach me at:** marius-jnr@outlook.com · [LinkedIn](https://www.linkedin.com/in/marius-grassman-8b9859296)  
-- ⚡ **Fun fact:** 2× IBM Quantum-certified and still fascinated every time a qubit stays coherent long enough for my code to run!
+Based in **Centurion, Gauteng, South Africa**, I thrive on building intelligent systems that bridge AI, software engineering, and automation.
+
+- 🔭 **Current projects:** ML-based student support system, credit risk assessment model, and quantum-agentic automations.
+- 🌱 **Learning:** distributed systems, ethical AI, and Japanese.
+- 👯 **Open to:** internships, research collaborations, and open-source teamwork.
+- 💬 **Ask me about:** .NET, MERN stack, quantum algorithms, machine learning, or distributed databases.
+- 📫 **Reach me at:** marius-jnr@outlook.com  
+  [LinkedIn](https://www.linkedin.com/in/marius-grassman-8b9859296)
+- ⚡ **Fun fact:** I’ve earned certifications from IBM, O’Reilly, HackerRank, and OpenAI—and I’m fascinated by quantum decoherence and LLMOps!
 
 ---
 
 ## 🔧 Tech Toolbox
-![C#](https://img.shields.io/badge/-C%23-05122A?logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?logo=css3&logoColor=1572B6)
-![.NET](https://img.shields.io/badge/-.NET-05122A?logo=dotnet)
-![React](https://img.shields.io/badge/-React-05122A?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=nodedotjs)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?logo=tensorflow)
-![Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker)
 
-> **Core strengths:** Quantum algorithms, agentic automation, ethical AI, full-stack system design
+**Languages**: C#, Python, JavaScript, HTML, CSS, C++, Delphi  
+**Frameworks**: .NET Core, ASP.NET, React.js, Node.js, Express.js, EJS, Bootstrap, Tailwind  
+**AI / Data Science**: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Dash, Microsoft Agents  
+**Databases**: SQL Server, MongoDB (with replication, sharding, indexing, aggregation)  
+**DevOps / Tools**: Docker, Git, GitHub, Bash, Visual Studio, WebStorm, Azure, OctoPrint, Anaconda  
+
+---
+
+## 💼 Experience
+
+**University Tutor**  
+*Belgium Campus ITversity* | Feb 2025 – Present  
+> Supporting peers academically in full stack development, data science, and algorithmic thinking.
+
+**Junior Data Systems Developer**  
+*Concrete Testing Equipment* | Aug 2024 – Nov 2024  
+> Developed small-scale relational databases with Excel integration; built full-stack solutions with C#, SQL, HTML/CSS/JS; implemented machine calibration tracking.
+
+**Self-Employed Handyman**  
+*Freelance* | Aug 2023 – Aug 2024  
+> Handled practical tasks while self-studying and completing academic challenges.
 
 ---
 
 ## 🎓 Education & Certifications
-- **BSc (Hons) Computing: Software Engineering** — Belgium Campus (2023-2026)  
-- **Certifications:** Agentic Automation, AI & ML Tools for Deep Learning, REST API (Intermediate), C# (Basic)
 
----
+**BSc (Hons) in Computing: Software Engineering**  
+*Belgium Campus ITversity (2023–2026)*
 
-## 💼 Experience Snapshot
-| Role | Organisation | Period |
-|------|--------------|--------|
-| University Tutor | Belgium Campus | Feb 2025 – Present |
-| Junior Data Systems Developer | Concrete Testing Equipment | Aug 2024 – Nov 2024 |
-| Handyman | Self-employed | Aug 2023 – Aug 2024 |
+### 📜 Certifications
+
+**Agentic Automation** – OpenAI  
+**A Glimpse into ERP** – SAAP  
+**Solution & Software Architecture** – TestDome
+
+**O’Reilly Media**  
+- AI & ML Tools for Deep Learning  
+- AI & ML Fundamentals  
+
+**IBM**  
+- Basics of Quantum Information  
+- Fundamentals of Quantum Algorithms  
+
+**HackerRank**  
+- REST API (Intermediate)  
+- C# (Basic)  
+- SQL (Intermediate)  
+- SQL (Advanced)  
+- Frontend Developer (React)  
+- Problem Solving (Intermediate)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gras-sie&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gras-sie&layout=compact&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gras-sie&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gras-sie&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-*README auto-generated from my LinkedIn profile — last update: 5 June 2025.*
