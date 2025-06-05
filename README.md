@@ -1,34 +1,45 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" /> Hi there, I'm **Marius Grassman** 
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" />
+  <h1>Hi there, I'm Marius Grassman</h1>
+  <h3>🚀 Software Engineer | AI Developer | University Tutor</h3>
+  <h3>🎓 Third-Year BSc (Hons) Software Engineering Student</h3>
 
-### 🚀 Software Engineer | AI Developer | University Tutor
-### 🎓 Third-Year BSc (Hons) Software Engineering Student
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;AI+%26+automation+solutions;Full-stack+development;Top+5+student+%26+tutor" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;AI+%26+automation+solutions;Full-stack+development;Top+5+student+%26+tutor" alt="Typing SVG" />
+  <p>📍 Centurion, Gauteng, South Africa</p>
 
-📍 **Centurion, Gauteng, South Africa**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marius-grassman-8b9859296)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Replace with your portfolio URL -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gras-sie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marius-jnr@outlook.com)
-
+  <p>
+    <a href="https://www.linkedin.com/in/marius-grassman-8b9859296" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/Gras-sie" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:marius-jnr@outlook.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## **About Me**
+## About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student** at **Belgium Campus ITversity**, ranking in the **top 5 of my year** and currently serving as a **University Tutor**.
+I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student** at **Belgium Campus ITversity**. I'm proud to rank in the **top 5 of my year** and currently serve as a **University Tutor**.
 
-**🎯 Current Focus Areas:**
-- 🤖 **AI & Machine Learning** - Building ML-based student support systems and credit risk models
-- 🔧 **Automation & RPA** - Developing quantum-agentic automations and intelligent workflows
-- 🌐 **Full-Stack Development** - Creating robust applications with .NET and MERN stack
-- 📊 **Data Science** - Working with distributed systems and ethical AI implementations
+### 🚀 Focus Areas & Mission
+
+* 🧩 **Full-Stack Development** - Architecting scalable, modern web applications (MERN and .NET).
+* 🔧 **Automation & RPA** - Developing quantum-agentic automations and intelligent workflows.
+* 🤖 **LLM Chains & AI Tooling** - Orchestrating sophisticated AI workflows in Python.
+* 🛠️ **Supervised Fine-Tuning** - Adapting open-source models **locally** for enterprise-grade accuracy.
+* 🌍 **Localized & On-Prem LLMs** - Containerizing, quantizing, and serving models on edge hardware.
+* ⚡ **Local AI Infrastructure** - Automating GPU provisioning, caching, and observability.
+* 🏗️ **Systems Architecture** - Designing maintainable, high-performance solutions. 
 
 **💭 My Philosophy:**
 > *"Failure is the opportunity to begin again more intellectually."* I approach software development by bridging **AI**, **software engineering**, and **automation** to create intelligent systems that solve real-world problems. From **quantum algorithms** to **distributed databases**, I believe in building solutions that are both technically excellent and practically meaningful.
@@ -76,12 +87,12 @@ passions:
 
 ### **Frontend Technologies**
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### **Backend & Infrastructure**
@@ -100,9 +111,8 @@ passions:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/🤗_Transformers-FFAC33?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/_Transformers-FFAC33?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Dash-9CA3AF?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
 </p>
 
 ### **Databases**
@@ -115,7 +125,6 @@ passions:
 ### **Development Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -131,9 +140,10 @@ passions:
 class CurrentWork:
     def __init__(self):
         self.focus_areas = {
-            "ai_development": "ML-based student support systems and credit risk assessment",
-            "automation": "Quantum-agentic automations and RPA with UIPath",
             "full_stack": "Modern applications with .NET Core, React, and MongoDB",
+            "ai_development":  "Local-first containerized AI tooling, LLM chains, supervised fine-tuning",
+            "automation": "Quantum-agentic automations and RPA with UIPath",
+            "dev_experience":  "Automating workflows, elevating developer tooling",
             "data_science": "Distributed systems and ethical AI implementations",
             "quantum_computing": "IBM Quantum algorithms and decoherence research"
         }
@@ -141,7 +151,6 @@ class CurrentWork:
     def get_passion_projects(self):
         return [
             "AI-powered student support platforms", 
-            "Credit risk ML models",
             "Quantum algorithm implementations",
             "Distributed database architectures"
         ]
