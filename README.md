@@ -27,11 +27,19 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student** at **Belgium Campus ITversity**. I'm proud to rank in the **top 5 of my year** and currently serve as a **University Tutor**.
 
-### 🚀 Focus Areas & Mission
+<br/> **🚀 Focus Areas & Mission**
+
+* 🧩 **Full-Stack Development** - Architecting scalable, modern web applications (MERN and .NET).
+* 🔧 **Automation & RPA** - Developing quantum-agentic automations and intelligent workflows.
+* 🤖 **LLM Chains & AI Tooling** - Orchestrating sophisticated AI workflows in Python.
+* 🛠️ **Supervised Fine-Tuning** - Adapting open-source models **locally** for enterprise-grade accuracy.
+* 🌍 **Localized & On-Prem LLMs** - Containerizing, quantizing, and serving models on edge hardware.
+* ⚡ **Local AI Infrastructure** - Automating GPU provisioning, caching, and observability.
+* 🏗️ **Systems Architecture** - Designing maintainable, high-performance solutions.
 
 * 🧩 **Full-Stack Development** - Architecting scalable, modern web applications (MERN and .NET).
 * 🔧 **Automation & RPA** - Developing quantum-agentic automations and intelligent workflows.
