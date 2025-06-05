@@ -170,11 +170,11 @@ class CurrentWork:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[🤖 Student Support System](https://github.com/Gras-sie?tab=repositories)** | ML-powered academic assistance platform | `Python` `TensorFlow` `MongoDB` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
-| **[💰 Credit Risk Assessment](https://github.com/Gras-sie?tab=repositories)** | Machine learning credit evaluation model | `Python` `Scikit-learn` `AWS` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
-| **[⚡ Quantum Automations](https://github.com/Gras-sie?tab=repositories)** | Quantum-agentic workflow automation | `Python` `IBM Quantum` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
+| **[🤖 ML Student Assessment](https://github.com/Gras-sie/ML_student_assessment)** | Deep learning models to predict student outcomes and performance metrics | `Python` `Scikit-learn` `TensorFlow` `Dash` `Pandas` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| **[💰 Credit Risk Assessment](https://github.com/Gras-sie/ML-Credit-Risk-Assessment)** | Creditworthiness classification with risk score visualization | `Python` `Scikit-learn` `Dash` `TensorFlow` `Matplotlib` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| **[🌐 Dynamic Community Portal](https://github.com/Gras-sie/Dynamic-Community-Portal-Website)** | Interactive portal for community engagement and service access | `Node.js` `Express.js` `EJS` `MongoDB` `Bootstrap` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
 | **[🌐 Personal Website](https://github.com/Gras-sie?tab=repositories)** | Portfolio and professional showcase | `React` `TypeScript` `Tailwind` | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
-| **[🏗️ Full-Stack Solutions](https://github.com/Gras-sie?tab=repositories)** | Enterprise web applications | `.NET Core` `React` `SQL Server` | ![Status](https://img.shields.io/badge/Status-Live-blue) |
+
 
 </div>
 
