@@ -41,14 +41,6 @@ I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student*
 * ⚡ **Local AI Infrastructure** - Automating GPU provisioning, caching, and observability.
 * 🏗️ **Systems Architecture** - Designing maintainable, high-performance solutions.
 
-* 🧩 **Full-Stack Development** - Architecting scalable, modern web applications (MERN and .NET).
-* 🔧 **Automation & RPA** - Developing quantum-agentic automations and intelligent workflows.
-* 🤖 **LLM Chains & AI Tooling** - Orchestrating sophisticated AI workflows in Python.
-* 🛠️ **Supervised Fine-Tuning** - Adapting open-source models **locally** for enterprise-grade accuracy.
-* 🌍 **Localized & On-Prem LLMs** - Containerizing, quantizing, and serving models on edge hardware.
-* ⚡ **Local AI Infrastructure** - Automating GPU provisioning, caching, and observability.
-* 🏗️ **Systems Architecture** - Designing maintainable, high-performance solutions. 
-
 **💭 My Philosophy:**
 > *"Failure is the opportunity to begin again more intellectually."* I approach software development by bridging **AI**, **software engineering**, and **automation** to create intelligent systems that solve real-world problems. From **quantum algorithms** to **distributed databases**, I believe in building solutions that are both technically excellent and practically meaningful.
 
