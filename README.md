@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/marius-grassman-8b9859296" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://gras-sie.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/Gras-sie" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -182,7 +182,7 @@ class CurrentWork:
 | **[🤖 ML Student Assessment](https://github.com/Gras-sie/ML_student_assessment)** | Deep learning models to predict student outcomes and performance metrics | `Python` `Scikit-learn` `TensorFlow` `Dash` `Pandas` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
 | **[💰 Credit Risk Assessment](https://github.com/Gras-sie/ML-Credit-Risk-Assessment)** | Creditworthiness classification with risk score visualization | `Python` `Scikit-learn` `Dash` `TensorFlow` `Matplotlib` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
 | **[🌐 Dynamic Community Portal](https://github.com/Gras-sie/Dynamic-Community-Portal-Website)** | Interactive portal for community engagement and service access | `Node.js` `Express.js` `EJS` `MongoDB` `Bootstrap` | ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) |
-| **[🌐 Personal Website](https://github.com/Gras-sie?tab=repositories)** | Portfolio and professional showcase | `React` `TypeScript` `Tailwind` | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
+| **[🌐 Personal Website]((https://gras-sie.github.io/))** | Portfolio and professional showcase | `React` `TypeScript` `Tailwind` | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
 
 
 </div>
