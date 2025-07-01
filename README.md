@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="35" height="35" />
   <h1>Hi there, I'm Marius Grassman</h1>
   <h3>🚀 Software Engineer | AI Developer | University Tutor</h3>
-  <h3>🎓 Third-Year BSc (Hons) Software Engineering Student</h3>
+  <h3>🎓 Third-Year BSc (Hons) Bachelor of Computing Student</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+systems;AI+%26+automation+solutions;Full-stack+development;Top+5+student+%26+tutor" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student** at **Belgium Campus ITversity**. I'm proud to rank in the **top 5 of my year** and currently serve as a **University Tutor**.
+I'm **Marius Grassman**, a **third-year BSc (Hons) Bachelor of Computing student** at **Belgium Campus ITversity**. I'm proud to rank in the **top 5 of my year** and currently serve as a **University Tutor**.
 
 <br/> **🚀 Focus Areas & Mission**
 
@@ -42,7 +42,7 @@ I'm **Marius Grassman**, a **third-year BSc (Hons) Software Engineering student*
 * 🏗️ **Systems Architecture** - Designing maintainable, high-performance solutions.
 
 **💭 My Philosophy:**
-> *"Failure is the opportunity to begin again more intellectually."* I approach software development by bridging **AI**, **software engineering**, and **automation** to create intelligent systems that solve real-world problems. From **quantum algorithms** to **distributed databases**, I believe in building solutions that are both technically excellent and practically meaningful.
+> *"Failure is the opportunity to begin again more intellectually."* I approach software development by bridging AI, software engineering, and automation to create intelligent systems that solve real-world problems. From quantum algorithms to distributed databases, I believe in building solutions that are both technically excellent and practically meaningful.
 
 ### **What Drives Me:**
 ```yaml
@@ -196,7 +196,7 @@ class CurrentWork:
 ```typescript
 const goals2025 = {
   certifications: [
-    "✅ UIPath RPA Developer – Intermediate",
+    "✅ UIPath RPA Developer - Intermediate",
     "✅ Microsoft Azure AI Fundamentals/Associate", 
     "🎯 Advanced Quantum Computing Specialization"
   ],
